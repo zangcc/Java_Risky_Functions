@@ -1,3 +1,13 @@
+<h1 align="center">Welcome to zangcc's github 👋</h1>
+
+
+> 仅为个人收集，由于时间精力有限，所以并不是特别的全，而且文档稍微有些不美观 请谅解，如果大家有更好的建议或者想共同维护，可以扫描私信我🙆‍♂️ 
+
+
+<img width="170" alt="image" src="https://github.com/zangcc/Java_Risky_Functions/assets/64825932/d8cd05f1-248f-4e3d-87e8-ee8dafec2dfc">
+
+
+
 # Java-危险函数总结
 Java危险函数汇总 / Summary of risky functions in Java
 
